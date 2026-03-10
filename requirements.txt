@@ -1,0 +1,6 @@
+agent-framework --pre
+python-dotenv
+azure-identity
+mcp
+msal
+httpx
